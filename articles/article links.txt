@@ -1,0 +1,20 @@
+Epilepsy:
+https://www.frontiersin.org/articles/10.3389/fneur.2021.791608/abstract
+https://www.frontiersin.org/articles/10.3389/fneur.2020.00833/full
+https://www.frontiersin.org/articles/10.3389/fneur.2020.00409/full
+https://www.frontiersin.org/articles/10.3389/fneur.2020.618841/full
+https://www.frontiersin.org/articles/10.3389/fneur.2018.00276/full
+
+Neural Networks:
+https://www.datasciencecentral.com/profiles/blogs/understanding-neural-network-a-beginner-s-guide
+https://www.datasciencecentral.com/profiles/blogs/artificial-neural-network-ann-in-machine-learning
+https://www.datasciencecentral.com/profiles/blogs/crash-course-on-multi-layer-perceptron-neural-networks-1
+https://www.datasciencecentral.com/profiles/blogs/beyond-deep-learning-3rd-generation-neural-nets
+https://www.datasciencecentral.com/profiles/blogs/book-neural-networks-and-statistical-learning
+
+Stars:
+https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve
+https://www.nationalgeographic.com/science/article/stars
+https://theconversation.com/how-many-stars-are-there-in-space-165370
+https://www.sciencedaily.com/releases/2021/12/211209124244.htm
+https://kids.frontiersin.org/articles/10.3389/frym.2019.00092
