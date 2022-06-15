@@ -8,13 +8,16 @@ I trained an LDA model for 5000 iterations and traced the predicted topics.
 
 here are some visualizations of variable convergence during the training process:
 
-theta = topic distribution per-document
+-theta = topic distribution per-document
+
 ![image](/images/theta.jpg)
 
-phi = word distribution per-topic
+-phi = word distribution per-topic
+
 ![image](/images/phi.jpg)
 
-z = topic value
+-z = topic value
+
 ![image](/images/z.jpg)
 
 
