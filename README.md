@@ -12,9 +12,9 @@ theta = topic distribution per-document
 ![image](/images/theta.jpg)
 
 phi = word distribution per-topic
-![image](https://user-images.githubusercontent.com/48885998/173806569-34b31fa0-e8d5-43d7-8b72-9ca3faa61f2c.png)
+![image](/images/phi.jpg)
 
 z = topic value
-![image](https://user-images.githubusercontent.com/48885998/173806666-5f095d3e-48c7-4cc1-8644-d5be5d29c655.png)
+![image](/images/z.jpg)
 
 
