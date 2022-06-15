@@ -21,3 +21,4 @@ here are some visualizations of variable convergence during the training process
 ![image](/images/z.jpg)
 
 
+I was able to calculate the topic similarity between 2 documents. Some documents might contain elements of different topics other than their own. I calculated the number of most common word overlaps, this time increasing the number of most common words, and then divided by the number of most common words to get the similarity. I also tried the Blei Lafferty method (see Notebook).
