@@ -6,7 +6,7 @@ After text preprocessing, the most common words for each document were kept, as 
 
 I trained an LDA model for 5000 iterations and traced the predicted topics.
 
-here are some visualizations of variable convergence during the training process:
+Here are some visualizations of variable convergence during the training process:
 
 - **theta = topic distribution per-document**
 
